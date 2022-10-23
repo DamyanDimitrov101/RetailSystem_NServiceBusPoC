@@ -1,0 +1,12 @@
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\bin\Debug\net6.0\Messages.deps.json
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\bin\Debug\net6.0\Messages.dll
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\bin\Debug\net6.0\Messages.pdb
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\obj\Debug\net6.0\Messages.csproj.AssemblyReference.cache
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\obj\Debug\net6.0\Messages.GeneratedMSBuildEditorConfig.editorconfig
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\obj\Debug\net6.0\Messages.AssemblyInfoInputs.cache
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\obj\Debug\net6.0\Messages.AssemblyInfo.cs
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\obj\Debug\net6.0\Messages.csproj.CoreCompileInputs.cache
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\obj\Debug\net6.0\Messages.dll
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\obj\Debug\net6.0\refint\Messages.dll
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\obj\Debug\net6.0\Messages.pdb
+D:\_REPOS\RetailSystem_NserviceBusPOC\Messages\obj\Debug\net6.0\ref\Messages.dll

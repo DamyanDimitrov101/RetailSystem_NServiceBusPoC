@@ -1,0 +1,16 @@
+﻿2022-10-23 16:40:16.393 INFO  Logging to 'D:\_REPOS\RetailSystem_NserviceBusPOC\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-23 16:40:16.521 INFO  No valid license could be found. Falling back to trial license with start date '2022-10-23'.
+2022-10-23 16:41:39.231 INFO  Logging to 'D:\_REPOS\RetailSystem_NserviceBusPOC\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-23 16:41:39.379 INFO  No valid license could be found. Falling back to trial license with start date '2022-10-23'.
+2022-10-23 17:02:05.664 INFO  Logging to 'D:\_REPOS\RetailSystem_NserviceBusPOC\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-23 17:02:05.814 INFO  No valid license could be found. Falling back to trial license with start date '2022-10-23'.
+2022-10-23 20:34:26.123 INFO  Initiating shutdown.
+2022-10-23 20:34:26.132 INFO  Shutdown complete.
+2022-10-23 20:52:51.558 INFO  Logging to 'D:\_REPOS\RetailSystem_NserviceBusPOC\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-23 20:52:51.704 INFO  No valid license could be found. Falling back to trial license with start date '2022-10-23'.
+2022-10-23 21:02:29.778 INFO  Logging to 'D:\_REPOS\RetailSystem_NserviceBusPOC\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-23 21:02:29.942 INFO  No valid license could be found. Falling back to trial license with start date '2022-10-23'.
+2022-10-23 21:11:46.859 INFO  Logging to 'D:\_REPOS\RetailSystem_NserviceBusPOC\RetailSystem_NServiceBusPoC\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-23 21:11:46.982 INFO  No valid license could be found. Falling back to trial license with start date '2022-10-23'.
+2022-10-23 21:12:19.036 INFO  Logging to 'D:\_REPOS\RetailSystem_NserviceBusPOC\RetailSystem_NServiceBusPoC\ClientUI\bin\Debug\net6.0\' with level Info
+2022-10-23 21:12:19.210 INFO  No valid license could be found. Falling back to trial license with start date '2022-10-23'.
